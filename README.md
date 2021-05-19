@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This repo is no longer in use, not supported, and should not be used. It is kept for historical/archival purposes
+
 ![SwiftSVG Logo](https://raw.githubusercontent.com/mchoe/SwiftSVG/master/images/SwiftSVG-Logo.png)
 
 Key Features
